@@ -51,14 +51,14 @@ function Projects() {
         </div>
         <div className="card">
           <div className="card-content">
-            <a href="https://thinkful-ei-firefly.github.io/QuizAppMatt_Hector">
+            <a href="https://on-tap-client.hmvalles75.now.sh">
               <img src={ontap} alt="ontap app" />
             </a>
             <div className="description">
               <h3 className="text-secondary">ON TAP</h3>
               <h4>
                 Built using HTML5, CSS3, JavaScript, React.js, Node.js, Express,
-                PostgreSQL, Heroku, Zeit{" "}
+                PostgreSQL, Heroku, Zeit
               </h4>
               <p>
                 It is an application that lets you know what is on tap in every
@@ -69,7 +69,7 @@ function Projects() {
               </p>
               <div className="links">
                 <a
-                  href="https://thinkful-ei-firefly.github.io/QuizAppMatt_Hector"
+                  href="https://on-tap-client.hmvalles75.now.sh"
                   className="btn-light"
                 >
                   {" "}
